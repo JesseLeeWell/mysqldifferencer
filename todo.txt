@@ -1,0 +1,28 @@
+Add, change, drop index
+add, change, drop view
+
+
+---------DATA BRAINSTORMING
+
+1		1
+2		3
+-----------
+3		4
+5		5
+-----------
+
+
+do i insert, delete, update?  
+
+page 1:  insert = y, delete = idk, update = y
+page 2:  insert = idk, delete = y, update = y
+
+
+
+
+----------- FEATURES
+
+Local table copy
+pagination on data differencing
+difference maps for routines, indexes
+Resolve all for all modes

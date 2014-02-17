@@ -1,0 +1,162 @@
+
+
+
+body
+{
+	background-color: #ddd;
+}
+
+
+span.entity
+{
+	font-family: Courier New;
+	color: gray; 
+}
+
+
+#screen table
+{
+	margin: 10px 0; 
+	font-family: courier new;
+	font-size: 0.9em; 
+}
+
+#screen table.overviews
+{
+	width: 95%; 
+}
+
+#screen table tr td
+{
+	background-color: #689BF9;
+	padding: 0.25em 0.85em;
+	color: #111;			
+	vertical-align: top;
+}
+
+
+#screen table tr th
+{
+	background-color: black;
+	color: #ddd;
+	padding: 0.25em 0.85em;
+	vertical-align: top;
+}
+
+#screen table tr td a
+{
+	color: blue;
+	text-decoration: none;
+	font-weight: bold; 
+}
+
+#screen table tr td a:hover
+{
+	color: white;
+}
+
+
+
+#screen table tr td.alternatecolor
+{
+	background-color: LightSteelBlue;
+	color: gray;
+	text-align: center; 
+}
+
+
+#screen table tr th.alternatecolor
+{
+	background-color: gray;
+	color: #222;
+}
+
+#screen table tr td.alternatecolor a
+{
+	color: black;
+}
+
+#screen table tr td.alternatecolor a:hover
+{
+	color: gray;			
+}
+
+
+
+#screen table.credentials input[type="text"], #screen table.credentials select
+{
+	padding: 0.25em;
+	font-size: 1.1em;
+	width: 250px;
+	color: #666;
+}
+
+
+a[onclick]
+{
+	cursor: pointer;
+}
+
+
+code.preview
+{
+	white-space: pre-wrap; display: block; background-color: #eee; padding: 1em; margin: 1em; 
+
+}
+
+div.navigation
+{
+	float: left; 
+	width: 200px; 
+}
+
+div.navigation fieldset
+{
+	border: 1px solid #689BF9;
+	background-color: white; 
+}
+
+div.navigation fieldset ul
+{
+	margin: 3px; 
+}
+
+
+div.navigation fieldset legend
+{
+	border: 1px solid black;
+	background-color: lightblue; 
+}
+
+
+
+div#screen
+{
+	margin-left: 225px; 
+	margin-bottom: 50px; 
+}
+
+div.navigation a
+{
+	color: SteelBlue;
+	text-decoration: none;
+	font-weight: bold; 
+}
+
+#header hr
+{
+	color: #777;
+}
+
+#header a
+{
+	color: #777;
+	text-decoration: none; 
+}
+
+
+span.null
+{
+	opacity: 0.5; 
+	font-style: italic; 
+}
